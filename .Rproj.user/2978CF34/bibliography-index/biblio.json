@@ -1,0 +1,26 @@
+{
+    "sources": [
+        {
+            "URL": "https://chadchae.github.io",
+            "author": [
+                {
+                    "family": "Chae",
+                    "given": "Chungil"
+                }
+            ],
+            "id": "chadchae",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "title": "Introduction to chad (chungil) chae",
+            "type": "article-journal"
+        }
+    ],
+    "project_biblios": [
+        "bib/references.bib"
+    ]
+}

@@ -1,0 +1,68 @@
+{
+  "index.qmd": {
+    "index.html": "81592ae2"
+  },
+  "rl_research_log.qmd": {
+    "rl_research_log.html": "4a14c07c"
+  },
+  "rl_meeting_log.qmd": {
+    "rl_meeting_log.html": "f857ffa4"
+  },
+  "rl_analysis_version_log.qmd": {
+    "rl_analysis_version_log.html": "d705d31f"
+  },
+  "rl_draft_version_log.qmd": {
+    "rl_draft_version_log.html": "a588e95f"
+  },
+  "rn_ideas_and_thoughts.qmd": {
+    "rn_ideas_and_thoughts.html": "6ce401a3"
+  },
+  "rn_questions_and_answers.qmd": {
+    "rn_questions_and_answers.html": "cc717468"
+  },
+  "rn_procedures.qmd": {
+    "rn_procedures.html": "eded7dad"
+  },
+  "tf_related_theories.qmd": {
+    "tf_related_theories.html": "3b1d5576"
+  },
+  "tf_relationship_between_theories.qmd": {
+    "tf_relationship_between_theories.html": "cac598a7"
+  },
+  "tf_theoretical_framework.qmd": {
+    "tf_theoretical_framework.html": "405a6ee5"
+  },
+  "mm_methodology.qmd": {
+    "mm_methodology.html": "3fefe6e0"
+  },
+  "mm_method.qmd": {
+    "mm_method.html": "027eb024"
+  },
+  "mm_data_collection_strategy.qmd": {
+    "mm_data_collection_strategy.html": "632aab95"
+  },
+  "mm_data.qmd": {
+    "mm_data.html": "e1e83738"
+  },
+  "lr_search_incl_excl.qmd": {
+    "lr_search_incl_excl.html": "806d6797"
+  },
+  "lr_referencelist.qmd": {
+    "lr_referencelist.html": "188e0d15"
+  },
+  "lr_research_problem.qmd": {
+    "lr_research_problem.html": "29388a9a"
+  },
+  "lr_model_and_key_references.qmd": {
+    "lr_model_and_key_references.html": "cb2c0df7"
+  },
+  "lr_quotes_and_paraphrases.qmd": {
+    "lr_quotes_and_paraphrases.html": "daa9f841"
+  },
+  "pp_product.qmd": {
+    "pp_product.html": "bc96dae3"
+  },
+  "references.qmd": {
+    "references.html": "ca006504"
+  }
+}
