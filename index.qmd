@@ -20,9 +20,9 @@
 
 - Supervision:  
 - Project administration:
-  - Sookyung Lee
+  - Chungil (Chad) Chae
 - Conceptualization:
-  - Sookyung Lee
+  - Chungil (Chad) Chae
 -  Data accusation:
   - Chungil (Chad) Chae
 -  Data curation:
@@ -36,10 +36,8 @@
 - Validation:
 - Visualization:
 - Writing – original draft:
-  - Sookyung Lee
   - Chungil (Chad) Chae
 - Writing – review & editing:
-  - Sookyung Lee
   - Chungil (Chad) Chae
 
 
